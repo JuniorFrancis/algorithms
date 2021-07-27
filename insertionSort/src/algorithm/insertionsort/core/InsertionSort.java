@@ -6,7 +6,7 @@ public class InsertionSort {
 
     public void InsertionSort(Integer[] arr)
     {
-        Arrays.stream(arr).forEach(System.out::println);
+
         int currentValue, i, j = 0;
 
         for (i = 1; i < arr.length; i++)
