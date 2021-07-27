@@ -2,7 +2,7 @@
 A repository where i place my studies on algorithms! 
 
 
-1 - InsertionSort \n
+1 - InsertionSort
 Algorithm where's the sort it's made by a comparison one by one in a array. 
 The number where we are going to sort is stored in a var and after this we make a comparasion one by one in the array.
 And after this we make a comparasion one by one in the array using a While. 
